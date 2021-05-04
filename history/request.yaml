@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: CE07SHSM-MFD35-05-PCO2WB000-recovered_inst-pco2w_abc_instrument
+last_request: '2021-05-04T22:48:46.844273Z'
+response: https://raw.githubusercontent.com/ooi-data/CE07SHSM-MFD35-05-PCO2WB000-recovered_inst-pco2w_abc_instrument/main/history/response.json
+status: pending
